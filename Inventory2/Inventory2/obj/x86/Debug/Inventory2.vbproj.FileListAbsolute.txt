@@ -1,0 +1,10 @@
+c:\users\cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\Inventory2.vbproj.GenerateResource.Cache
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\bin\Debug\CrudInventory2.exe
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\bin\Debug\CrudInventory2.pdb
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\bin\Debug\CrudInventory2.xml
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\CrudInventory2.Login1.resources
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\CrudInventory2.Resources.resources
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\CrudInventory2.Project_Details.resources
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\CrudInventory2.exe
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\CrudInventory2.xml
+C:\Users\Cyrus\documents\visual studio 2010\Projects\Inventory2\Inventory2\obj\x86\Debug\CrudInventory2.pdb
