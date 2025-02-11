@@ -1,0 +1,10 @@
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\bin\Debug\CrudInventorymanagementsystem.exe
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\bin\Debug\CrudInventorymanagementsystem.pdb
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\bin\Debug\CrudInventorymanagementsystem.xml
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.Resources.resources
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.vbproj.GenerateResource.Cache
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.exe
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.xml
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.pdb
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.Project_Details.resources
+c:\users\cyrus\documents\visual studio 2010\Projects\CrudInventorymanagementsystem\CrudInventorymanagementsystem\obj\x86\Debug\CrudInventorymanagementsystem.Login1.resources
